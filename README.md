@@ -3,4 +3,4 @@
 
 repositorio de aprendizado feito em aula.
 
-essa linha adcionai diretamente no sitr "impressionante =) "
+essa linha adcionai diretamente no site "impressionante =) "
